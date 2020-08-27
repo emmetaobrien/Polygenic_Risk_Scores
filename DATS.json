@@ -1,0 +1,165 @@
+{
+	"identifier": {
+		"identifier": "https://doi.org/10.3389/fnins.2020.00198",
+		"identifierSource": "DOI"
+	},
+	"title": "Expression-based polygenic score from the amygdala 5HTT gene network",
+	"creators":	[
+		{
+			"fullName":"Patricia Pelufo Silveira",
+			"roles": [
+				{
+					"value": "Principal Investigator"
+				}
+			]
+		}
+	],
+	"description": "This pipeline intends to facilitate the calculation of biologically informed polygenic scores from collected genomic data. This template can be adapted to create other expression-based polygenic risk scores. Data is 1) step by step description and 2) a list of genes that compose the gene network",
+	"version": "TBD",
+	"licenses": [
+		{
+			"name": "CC BY-NC-SA 4.0"
+		}
+	],
+	"keywords": [
+		{
+			"value": "Expression based Polygenic Risk Score"
+		},
+		{
+			"value": "Amygdala"
+		},
+		{
+			"value": "Serotonin Transporter 5HTT"
+		},
+		{
+			"value": "co-expression"
+		},
+		{
+			"value": "early-life"
+		},
+		{
+			"value": "PRS"
+		}
+	],
+	"distributions": [
+		{
+			"formats": [
+				"CSV"
+			],
+			"size": 3,
+			"unit":	"KB",
+			"access": {
+				"landingPage":	"Not defined yet",
+				"authorizations": [
+					{
+						"value": "public"
+					}
+				]
+			}
+		}
+	],
+	"types": [
+		{
+			"information": {
+				"value": "Genetics"
+			}
+		}
+	],
+	"isAbout": [
+		{
+			"identifier": {
+				"identifier": "9606",
+				"identifierSource":"https://www.ncbi.nlm.nih.gov/taxonomy/9606"
+			},
+			"name":"Homo sapiens"
+		}
+	],
+	"primaryPublications": [
+		{
+			"identifier": {
+				"identifier": "https://doi.org/10.3389/fnins.2020.00198"
+			},
+			"title": "Amygdala 5-HTT Gene Network Moderates the Effects of Postnatal Adversity on Attention Problems: Anatomo-Functional Correlation and Epigenetic Changes.",
+			"authors": [
+				{
+					"fullName": "R.M.S. de Lima"
+				},
+				{
+					"fullName": "B. Barth"
+				},
+				{
+					"fullName": "D. M. Arcego"
+				},
+				{
+					"fullName": "E. J. de Mendonça Filho"
+				},
+				{
+					"fullName": "A. Clappison"
+				},
+				{
+					"fullName": "S. Patel"
+				},
+				{
+					"fullName": "Z. Wang"
+				},
+				{
+					"fullName": "I. Pokhvisneva"
+				},
+				{
+					"fullName": "R. B. Sassi"
+				},
+				{
+					"fullName": "G. B. C. Hall"
+				},
+				{
+					"fullName": "M. S. Kobor"
+				},
+				{
+					"fullName": "K. J. O'Donnell"
+				},
+				{
+					"fullName": "A. P. S. d. V. Bittencourt"
+				},
+				{
+					"fullName": "M. J. Meaney"
+				},
+				{
+					"fullName": "C. Dalmaz"
+				},
+				{
+					"fullName": "P. P. Silveira"
+				}
+			]
+		}
+	],
+	"acknowledges": [
+		{
+			"name": "Grants",
+			"funders": [
+				{
+					"name": "National Research Council of Brazil (CNPq)"
+				},
+				{
+					"name": "Coordination of Improvement of Higher Level Personnel (CAPES)"
+				},
+				{
+					"name": "The JPB Foundation through a grant to The JPB Research Network on Toxic Stress: A Project of the Center on the Developing Child at Harvard University"
+				}
+			]
+		}
+	],
+	"extraProperties": [
+		{
+			"category": "files",
+			"value": 2
+		},
+		{
+			"category": "subjects",
+			"value": 0
+		},
+		{
+			"category": "contact",	
+			"value": "patricia.silveira@mcgill.ca"
+		}
+	]
+}
