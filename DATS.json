@@ -15,7 +15,7 @@
 		}
 	],
 	"description": "This pipeline intends to facilitate the calculation of biologically informed polygenic scores from collected genomic data. This template can be adapted to create other expression-based polygenic risk scores. Data is 1) step by step description and 2) a list of genes that compose the gene network",
-	"version": "TBD",
+	"version": "1.0",
 	"licenses": [
 		{
 			"name": "CC BY-NC-SA 4.0"
