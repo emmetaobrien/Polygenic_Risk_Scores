@@ -47,7 +47,9 @@
 				"CSV"
 			],
 			"size": 1.06,
-			"unit":	"MB",
+			"unit":	{
+				"value": "MB"
+			},
 			"access": {
 				"landingPage":	"Not defined yet",
 				"authorizations": [
@@ -151,11 +153,19 @@
 	"extraProperties": [
 		{
 			"category": "files",
-			"value": 2
+			"values": [
+				{
+					"value": 2
+				}
+			]
 		},
 		{
 			"category": "subjects",
-			"value": 0
+			"values": [
+				{
+					"value": 0
+				}
+			]
 		},
 		{
 			"category": "CONP_status",
@@ -198,8 +208,12 @@
 			]
 		},
 		{
-			"category": "contact"
-			"value": "patricia.silveira@mcgill.ca"
+			"category": "contact",
+			"values": [
+				{
+					"value": "patricia.silveira@mcgill.ca"
+				}
+			]
 		}
 	]
 }
