@@ -46,8 +46,8 @@
 			"formats": [
 				"CSV"
 			],
-			"size": 3,
-			"unit":	"KB",
+			"size": 1.06,
+			"unit":	"MB",
 			"access": {
 				"landingPage":	"Not defined yet",
 				"authorizations": [
@@ -158,7 +158,47 @@
 			"value": 0
 		},
 		{
-			"category": "contact",	
+			"category": "CONP_status",
+			"values": [
+				{
+					"value": "Canadian"
+				}
+			]
+		},
+		{
+			"category": "origin_institution",
+			"values": [
+				{
+					"value": "McGill University"
+				}
+			]
+		},
+		{
+			"category": "origin_city",
+			"values": [
+				{
+					"value": "Montreal"
+				}
+			]
+		},
+		{
+			"category": "origin_province",
+			"values": [
+				{
+					"value": "Quebec"
+				}
+			]
+		},
+		{
+			"category": "origin_country",
+			"values": [
+				{
+					"value": "Canada"
+				}
+			]
+		},
+		{
+			"category": "contact"
 			"value": "patricia.silveira@mcgill.ca"
 		}
 	]
